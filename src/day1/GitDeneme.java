@@ -2,7 +2,7 @@ package day1;
 
 public class GitDeneme {
     public static void main(String[] args) {
-        System.out.println("deneme1 ")
+        System.out.println("deneme1 ");//noktalı virgül eklendi
 
     }
 }
